@@ -2,7 +2,7 @@
 
 I’m an engineer who aspires to be a scientist. I work on multimodal AI, with a strong focus on vision-language models, speech systems, and efficient on-device inference.
 
-I currently work at Hugging Face, where I lead our multimodal research and contribute to projects spanning:
+I work at Hugging Face, where I lead our multimodal research and contribute to projects spanning:
 - Vision-Language Models (VLMs)
 - Speech-to-speech and conversational systems
 - Multimodal research with an emphasis on efficiency and real-world deployment
