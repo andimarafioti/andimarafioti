@@ -1,8 +1,9 @@
 ## Hi, I’m Andi 👋
 
-I’m an engineer who aspires to be a scientist. I work on multimodal AI, with a strong focus on vision-language models, speech systems, and efficient on-device inference.
+I’m an engineer working at the intersection of research and real-world systems.
+I build and ship multimodal AI systems, focusing on vision-language models, speech, and efficient on-device inference.
 
-I work at Hugging Face, where I lead our multimodal research and contribute to projects spanning:
+At Hugging Face, I lead multimodal research and contribute to:
 - Vision-Language Models (VLMs)
 - Speech-to-speech and conversational systems
 - Multimodal research with an emphasis on efficiency and real-world deployment
